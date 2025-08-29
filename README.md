@@ -1,1 +1,1 @@
-This repository contains assignment notebooks and solution sheets for DS 607 (Advanced Machine Learning). 
+This repository contains assignment notebooks and solution sheets for DS 703 (Advanced Machine Learning). 
